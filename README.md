@@ -1,6 +1,6 @@
 <h1>Hello! I'm Josef Macera :)</h1>
 
-I am a passionate software developer who loves desinging websites, building servers and automating things. I love learning new things and passing on what I know with others.
+I am a passionate software developer who loves desinging websites, building servers and automating things. I love learning new things and passing on what I know with others. In the fall, I'll be attending Carnegie Mellon University to major in electrical and computer engineering. Feel free to reach out to me! :)
 
 ## Technologies I use⚒️
 
